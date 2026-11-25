@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 356" role="img" aria-label="Habilidades">
+<style>svg{--bg:#f6f4ee;--fg:#111112;--mu:#6b6a66;--ln:#d9d6cc;--ac:#e0440c}
+@media(prefers-color-scheme:dark){svg{--bg:#0b0b0c;--fg:#f4f2ec;--mu:#8b8a85;--ln:#2a2a2c;--ac:#ff5a1f}}
+.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.bg{fill:var(--bg)}.fg{fill:var(--fg)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}
+.lb{font-size:12px;letter-spacing:1.6px;fill:var(--mu)}
+.fd{opacity:0;animation:fd .6s ease forwards}@keyframes fd{to{opacity:1}}
+.ct{font-size:17px;font-weight:700;fill:var(--fg)}.it{font-size:13px;fill:var(--mu)}.nb{font-size:11px;letter-spacing:1px;fill:var(--mu)}
+.ri{opacity:0;animation:ri .8s cubic-bezier(.2,.7,.2,1) forwards}@keyframes ri{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.ri{animation:none;opacity:1}}
+</style>
+<rect class="bg" width="840" height="356" rx="18"/>
+<text class="m lb" x="48" y="42">06 ÁREAS</text>
+<g class="ri" style="animation-delay:0.00s"><rect x="48" y="64" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
+<rect class="ac" x="68" y="84" width="14" height="3" rx="1.5"/><text class="m nb" x="268" y="90" text-anchor="end">01</text>
+<text class="s ct" x="68" y="110">Móvil</text><text class="s it" x="68" y="132">Flutter · Dart</text><text class="s it" x="68" y="153">React Native · Expo</text><text class="s it" x="68" y="174">Publicación en tiendas</text></g>
+<g class="ri" style="animation-delay:0.12s"><rect x="300" y="64" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
+<rect class="ac" x="320" y="84" width="14" height="3" rx="1.5"/><text class="m nb" x="520" y="90" text-anchor="end">02</text>
+<text class="s ct" x="320" y="110">Backend</text><text class="s it" x="320" y="132">NestJS · Prisma</text><text class="s it" x="320" y="153">Supabase · PostgreSQL</text><text class="s it" x="320" y="174">Python · Odoo</text></g>
+<g class="ri" style="animation-delay:0.24s"><rect x="552" y="64" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
+<rect class="ac" x="572" y="84" width="14" height="3" rx="1.5"/><text class="m nb" x="772" y="90" text-anchor="end">03</text>
+<text class="s ct" x="572" y="110">Web</text><text class="s it" x="572" y="132">TypeScript · React</text><text class="s it" x="572" y="153">Next.js · Tailwind</text><text class="s it" x="572" y="174">Landing pages</text></g>
+<g class="ri" style="animation-delay:0.36s"><rect x="48" y="202" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
+<rect class="ac" x="68" y="222" width="14" height="3" rx="1.5"/><text class="m nb" x="268" y="228" text-anchor="end">04</text>
+<text class="s ct" x="68" y="248">Diseño</text><text class="s it" x="68" y="270">UI / UX</text><text class="s it" x="68" y="291">Sistemas de diseño</text><text class="s it" x="68" y="312">Identidad visual</text></g>
+<g class="ri" style="animation-delay:0.48s"><rect x="300" y="202" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
+<rect class="ac" x="320" y="222" width="14" height="3" rx="1.5"/><text class="m nb" x="520" y="228" text-anchor="end">05</text>
+<text class="s ct" x="320" y="248">IA aplicada</text><text class="s it" x="320" y="270">Agentes y automatización</text><text class="s it" x="320" y="291">Voz en tiempo real</text><text class="s it" x="320" y="312">Imagen y video generativo</text></g>
+<g class="ri" style="animation-delay:0.60s"><rect x="552" y="202" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
+<rect class="ac" x="572" y="222" width="14" height="3" rx="1.5"/><text class="m nb" x="772" y="228" text-anchor="end">06</text>
+<text class="s ct" x="572" y="248">Arquitectura</text><text class="s it" x="572" y="270">Domain-Driven Design</text><text class="s it" x="572" y="291">Arquitectura hexagonal</text><text class="s it" x="572" y="312">Documentación viva</text></g>
+</svg>
