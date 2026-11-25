@@ -20,12 +20,12 @@
 @media(prefers-reduced-motion:reduce){.ro,.mk,.dt,.ri{animation:none}.ri,.r0{opacity:1}}
 </style>
 <rect class="bg" width="840" height="320" rx="18"/>
-<g class="m lb"><text x="48" y="50">ADBEL1 / README</text><circle class="dt ac" cx="676" cy="46" r="4"/><text x="792" y="50" text-anchor="end">CONSTRUYENDO</text></g>
+<g class="m lb"><text x="48" y="50">ADBEL1 / README</text><circle class="dt ac" cx="690" cy="46" r="4"/><text x="792" y="50" text-anchor="end">FULL-STACK</text></g>
 <text class="s nm ri" x="44" y="146">Benja Díaz</text>
-<g class="s ri d1"><text class="ld" x="48" y="196">Construyo</text><text class="ro r0" x="182" y="196">apps móviles que llegan a las tiendas.</text><text class="ro r1" x="182" y="196">backends con DDD que el negocio entiende.</text><text class="ro r2" x="182" y="196">herramientas con IA para trabajar mejor.</text></g>
+<g class="s ri d1"><text class="ld" x="48" y="196">Construyo</text><text class="ro r0" x="182" y="196">productos digitales de punta a punta.</text><text class="ro r1" x="182" y="196">backends con DDD que el negocio entiende.</text><text class="ro r2" x="182" y="196">interfaces diseñadas con cuidado.</text></g>
 <g class="ri d2">
 <path d="M48 258.5H794" fill="none" stroke="var(--ln)" stroke-width="7" stroke-dasharray="1.5 6.25"/>
 <path d="M48 255H794" fill="none" stroke="var(--mu)" stroke-width="14" stroke-dasharray="1.5 60.5"/>
 <rect class="mk ac" x="46" y="240" width="5.5" height="22" rx="1"/></g>
-<g class="m lb ri d3"><text x="48" y="288">FLUTTER · REACT NATIVE · NESTJS · SUPABASE</text><text x="792" y="288" text-anchor="end">2 APPS EN TIENDAS</text></g>
+<g class="m lb ri d3"><text x="48" y="288">FLUTTER · REACT NATIVE · NESTJS · SUPABASE</text><text x="792" y="288" text-anchor="end">CÓDIGO + DISEÑO</text></g>
 </svg>
