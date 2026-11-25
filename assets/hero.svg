@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" role="img" aria-label="Benja Díaz">
-<style>svg{--bg:#f6f4ee;--fg:#111112;--mu:#6b6a66;--ln:#d9d6cc;--ac:#e0440c}
-@media(prefers-color-scheme:dark){svg{--bg:#0b0b0c;--fg:#f4f2ec;--mu:#8b8a85;--ln:#2a2a2c;--ac:#ff5a1f}}
+<style>svg{--bg:#f3f6fa;--fg:#0d1117;--mu:#5c6675;--ln:#d3dae4;--ac:#1f5fd6}
+@media(prefers-color-scheme:dark){svg{--bg:#0a0e14;--fg:#eef2f7;--mu:#8792a2;--ln:#222b38;--ac:#4c8dff}}
 .s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
 .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 .bg{fill:var(--bg)}.fg{fill:var(--fg)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}
