@@ -1,33 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 356" role="img" aria-label="Habilidades">
-<style>svg{--bg:#f6f4ee;--fg:#111112;--mu:#6b6a66;--ln:#d9d6cc;--ac:#e0440c}
-@media(prefers-color-scheme:dark){svg{--bg:#0b0b0c;--fg:#f4f2ec;--mu:#8b8a85;--ln:#2a2a2c;--ac:#ff5a1f}}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 396" role="img" aria-label="Habilidades">
+<style>svg{--bg:#f3f6fa;--fg:#0d1117;--mu:#5c6675;--ln:#d3dae4;--ac:#1f5fd6}
+@media(prefers-color-scheme:dark){svg{--bg:#0a0e14;--fg:#eef2f7;--mu:#8792a2;--ln:#222b38;--ac:#4c8dff}}
 .s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
 .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 .bg{fill:var(--bg)}.fg{fill:var(--fg)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}
 .lb{font-size:12px;letter-spacing:1.6px;fill:var(--mu)}
 .fd{opacity:0;animation:fd .6s ease forwards}@keyframes fd{to{opacity:1}}
 .ct{font-size:17px;font-weight:700;fill:var(--fg)}.it{font-size:13px;fill:var(--mu)}.nb{font-size:11px;letter-spacing:1px;fill:var(--mu)}
+.ic{fill:none;stroke:var(--ac);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 .ri{opacity:0;animation:ri .8s cubic-bezier(.2,.7,.2,1) forwards}@keyframes ri{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 @media(prefers-reduced-motion:reduce){.ri{animation:none;opacity:1}}
 </style>
-<rect class="bg" width="840" height="356" rx="18"/>
+<rect class="bg" width="840" height="396" rx="18"/>
 <text class="m lb" x="48" y="42">06 ÁREAS</text>
-<g class="ri" style="animation-delay:0.00s"><rect x="48" y="64" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
-<rect class="ac" x="68" y="84" width="14" height="3" rx="1.5"/><text class="m nb" x="268" y="90" text-anchor="end">01</text>
-<text class="s ct" x="68" y="110">Móvil</text><text class="s it" x="68" y="132">Flutter · Dart</text><text class="s it" x="68" y="153">React Native · Expo</text><text class="s it" x="68" y="174">Publicación en tiendas</text></g>
-<g class="ri" style="animation-delay:0.12s"><rect x="300" y="64" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
-<rect class="ac" x="320" y="84" width="14" height="3" rx="1.5"/><text class="m nb" x="520" y="90" text-anchor="end">02</text>
-<text class="s ct" x="320" y="110">Backend</text><text class="s it" x="320" y="132">NestJS · Prisma</text><text class="s it" x="320" y="153">Supabase · PostgreSQL</text><text class="s it" x="320" y="174">Python · Odoo</text></g>
-<g class="ri" style="animation-delay:0.24s"><rect x="552" y="64" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
-<rect class="ac" x="572" y="84" width="14" height="3" rx="1.5"/><text class="m nb" x="772" y="90" text-anchor="end">03</text>
-<text class="s ct" x="572" y="110">Web</text><text class="s it" x="572" y="132">TypeScript · React</text><text class="s it" x="572" y="153">Next.js · Tailwind</text><text class="s it" x="572" y="174">Landing pages</text></g>
-<g class="ri" style="animation-delay:0.36s"><rect x="48" y="202" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
-<rect class="ac" x="68" y="222" width="14" height="3" rx="1.5"/><text class="m nb" x="268" y="228" text-anchor="end">04</text>
-<text class="s ct" x="68" y="248">Diseño</text><text class="s it" x="68" y="270">UI / UX</text><text class="s it" x="68" y="291">Sistemas de diseño</text><text class="s it" x="68" y="312">Identidad visual</text></g>
-<g class="ri" style="animation-delay:0.48s"><rect x="300" y="202" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
-<rect class="ac" x="320" y="222" width="14" height="3" rx="1.5"/><text class="m nb" x="520" y="228" text-anchor="end">05</text>
-<text class="s ct" x="320" y="248">IA aplicada</text><text class="s it" x="320" y="270">Agentes y automatización</text><text class="s it" x="320" y="291">Voz en tiempo real</text><text class="s it" x="320" y="312">Imagen y video generativo</text></g>
-<g class="ri" style="animation-delay:0.60s"><rect x="552" y="202" width="240" height="126" rx="12" fill="none" stroke="var(--ln)"/>
-<rect class="ac" x="572" y="222" width="14" height="3" rx="1.5"/><text class="m nb" x="772" y="228" text-anchor="end">06</text>
-<text class="s ct" x="572" y="248">Arquitectura</text><text class="s it" x="572" y="270">Domain-Driven Design</text><text class="s it" x="572" y="291">Arquitectura hexagonal</text><text class="s it" x="572" y="312">Documentación viva</text></g>
+<g class="ri" style="animation-delay:0.00s"><rect x="48" y="64" width="240" height="146" rx="12" fill="none" stroke="var(--ln)"/>
+<g class="ic" transform="translate(68 82)"><rect x="7" y="3" width="10" height="18" rx="2"/><path d="M11 18h2"/></g><text class="m nb" x="268" y="96" text-anchor="end">01</text>
+<text class="s ct" x="68" y="132">Móvil</text><text class="s it" x="68" y="154">Flutter · Dart</text><text class="s it" x="68" y="175">React Native · Expo</text><text class="s it" x="68" y="196">Publicación en tiendas</text></g>
+<g class="ri" style="animation-delay:0.12s"><rect x="300" y="64" width="240" height="146" rx="12" fill="none" stroke="var(--ln)"/>
+<g class="ic" transform="translate(320 82)"><rect x="4" y="4" width="16" height="6" rx="1.5"/><rect x="4" y="14" width="16" height="6" rx="1.5"/><path d="M7.5 7h.01M7.5 17h.01"/></g><text class="m nb" x="520" y="96" text-anchor="end">02</text>
+<text class="s ct" x="320" y="132">Backend</text><text class="s it" x="320" y="154">NestJS · Prisma</text><text class="s it" x="320" y="175">Supabase · PostgreSQL</text><text class="s it" x="320" y="196">Python · Odoo</text></g>
+<g class="ri" style="animation-delay:0.24s"><rect x="552" y="64" width="240" height="146" rx="12" fill="none" stroke="var(--ln)"/>
+<g class="ic" transform="translate(572 82)"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M6 6.5h.01M8.5 6.5h.01"/></g><text class="m nb" x="772" y="96" text-anchor="end">03</text>
+<text class="s ct" x="572" y="132">Web</text><text class="s it" x="572" y="154">TypeScript · React</text><text class="s it" x="572" y="175">Next.js · Tailwind</text><text class="s it" x="572" y="196">Landing pages</text></g>
+<g class="ri" style="animation-delay:0.36s"><rect x="48" y="222" width="240" height="146" rx="12" fill="none" stroke="var(--ln)"/>
+<g class="ic" transform="translate(68 240)"><path d="M4 18C4 9 20 15 20 6"/><rect x="2.5" y="16.5" width="3" height="3"/><rect x="18.5" y="4.5" width="3" height="3"/></g><text class="m nb" x="268" y="254" text-anchor="end">04</text>
+<text class="s ct" x="68" y="290">Diseño</text><text class="s it" x="68" y="312">UI / UX</text><text class="s it" x="68" y="333">Sistemas de diseño</text><text class="s it" x="68" y="354">Identidad visual</text></g>
+<g class="ri" style="animation-delay:0.48s"><rect x="300" y="222" width="240" height="146" rx="12" fill="none" stroke="var(--ln)"/>
+<g class="ic" transform="translate(320 240)"><path d="M11 3l1.8 5.2L18 10l-5.2 1.8L11 17l-1.8-5.2L4 10l5.2-1.8zM18 16v4M16 18h4"/></g><text class="m nb" x="520" y="254" text-anchor="end">05</text>
+<text class="s ct" x="320" y="290">IA aplicada</text><text class="s it" x="320" y="312">Agentes y automatización</text><text class="s it" x="320" y="333">Voz en tiempo real</text><text class="s it" x="320" y="354">Imagen y video generativo</text></g>
+<g class="ri" style="animation-delay:0.60s"><rect x="552" y="222" width="240" height="146" rx="12" fill="none" stroke="var(--ln)"/>
+<g class="ic" transform="translate(572 240)"><path d="M12 3l9 5-9 5-9-5zM3 12l9 5 9-5M3 16l9 5 9-5"/></g><text class="m nb" x="772" y="254" text-anchor="end">06</text>
+<text class="s ct" x="572" y="290">Arquitectura</text><text class="s it" x="572" y="312">Domain-Driven Design</text><text class="s it" x="572" y="333">Arquitectura hexagonal</text><text class="s it" x="572" y="354">Documentación viva</text></g>
 </svg>
