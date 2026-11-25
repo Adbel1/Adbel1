@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 184" role="img" aria-label="Recorrido 2023 a 2026">
+<style>svg{--bg:#f6f4ee;--fg:#111112;--mu:#6b6a66;--ln:#d9d6cc;--ac:#e0440c}
+@media(prefers-color-scheme:dark){svg{--bg:#0b0b0c;--fg:#f4f2ec;--mu:#8b8a85;--ln:#2a2a2c;--ac:#ff5a1f}}
+.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.bg{fill:var(--bg)}.fg{fill:var(--fg)}.mu{fill:var(--mu)}.ac{fill:var(--ac)}
+.lb{font-size:12px;letter-spacing:1.6px;fill:var(--mu)}
+.fd{opacity:0;animation:fd .6s ease forwards}@keyframes fd{to{opacity:1}}
+.yr{font-size:13px;letter-spacing:1.2px;fill:var(--mu)}.tt{font-size:16px;font-weight:700;fill:var(--fg)}.sb{font-size:13px;fill:var(--mu)}
+.pa{stroke-dasharray:580;stroke-dashoffset:580;animation:dr 2s cubic-bezier(.4,0,.2,1) .2s forwards}@keyframes dr{to{stroke-dashoffset:0}}
+.pg{transform-box:fill-box;transform-origin:center;animation:pg 2.4s ease-out infinite}@keyframes pg{0%{transform:scale(1);opacity:.9}100%{transform:scale(2.6);opacity:0}}
+@media(prefers-reduced-motion:reduce){.pa,.fd,.pg{animation:none}.pa{stroke-dashoffset:0}.fd{opacity:1}.pg{opacity:0}}
+</style>
+<rect class="bg" width="840" height="184" rx="18"/>
+<text class="m lb" x="48" y="34">RECORRIDO</text>
+<path d="M56 92H792" stroke="var(--ln)" stroke-width="2"/><path class="pa" d="M56 92H626" stroke="var(--ac)" stroke-width="2"/>
+<g class="fd" style="animation-delay:0.50s"><circle class="bg" cx="56" cy="92" r="7" stroke="var(--mu)" stroke-width="2"/>
+<text class="m yr" x="48" y="66">2023</text><text class="s tt" x="48" y="128">Primeros proyectos</text><text class="s sb" x="48" y="149">JavaScript · CS50</text></g>
+<g class="fd" style="animation-delay:0.95s"><circle class="bg" cx="246" cy="92" r="7" stroke="var(--mu)" stroke-width="2"/>
+<text class="m yr" x="238" y="66">2024</text><text class="s tt" x="238" y="128">Conflux Perú</text><text class="s sb" x="238" y="149">Módulos Odoo en producción</text></g>
+<g class="fd" style="animation-delay:1.40s"><circle class="bg" cx="436" cy="92" r="7" stroke="var(--mu)" stroke-width="2"/>
+<text class="m yr" x="428" y="66">2025</text><text class="s tt" x="428" y="128">Memotion</text><text class="s sb" x="428" y="149">Primera app móvil propia</text></g>
+<g class="fd" style="animation-delay:1.85s"><circle class="pg" cx="626" cy="92" r="7" fill="none" stroke="var(--ac)" stroke-width="2"/><circle class="ac" cx="626" cy="92" r="7" stroke="var(--ac)" stroke-width="2"/>
+<text class="m yr" x="618" y="66">2026</text><text class="s tt" x="618" y="128">JUST START + Hagemsa</text><text class="s sb" x="618" y="149">En tiendas · ERP con DDD</text></g>
+</svg>
